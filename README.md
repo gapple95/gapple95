@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24ffbd,100:adc2ff&height=180&text=June`s%20GIthub&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24ffbd,100:adc2ff&height=180&text=성장하는%20AI개발자%20장현준입니다.&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About me </h2>  
@@ -7,7 +7,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
@@ -24,17 +24,18 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://shine-den-5eb.notion.site/1336095b67f680bf9ddef8048dbce376?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://shine-den-5eb.notion.site/1336095b67f680bf9ddef8048dbce376?pvs=4"> </a>
+    <div style="text-align: left;"> <a href=https://shine-den-5eb.notion.site/1336095b67f680bf9ddef8048dbce376?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://shine-den-5eb.notion.site/1336095b67f680bf9ddef8048dbce376?pvs=4"> </a>
          <a href=mailto:wkdguswns100@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wkdguswns100@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgapple95%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgapple95%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=gapple95&bg_color=180,00000000,adc6ff&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapple95&layout=compact&bg_color=180,00000000,adc6ff&title_color=000000&text_color=000000"
-           /> </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=gapple95&bg_color=180,00000000,adc6ff&title_color=000000&text_color=000000"
+         /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapple95&layout=compact&bg_color=180,00000000,adc6ff&title_color=000000&text_color=000000"
+           /> </div> 
     </div>
+    
     
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdguswns100)](https://solved.ac/wkdgusns100/)
