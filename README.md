@@ -47,9 +47,9 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=gapple95&include_all_commits=true&bg_color=180,00000000,adc6ff&title_color=000000&text_color=000000" /> 
+    <img src="https://profile-sigma-rosy.vercel.app/api?username=gapple95&include_all_commits=true&bg_color=180,00000000,adc6ff&title_color=000000&text_color=000000" /> 
     <br> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapple95&layout=compact&bg_color=180,00000000,adc6ff&title_color=000000&text_color=000000" /> 
+    <img src="https://profile-sigma-rosy.vercel.app/api/top-langs/?username=gapple95&layout=compact&bg_color=180,00000000,adc6ff&title_color=000000&text_color=000000" /> 
   </div> 
 </div>
 
